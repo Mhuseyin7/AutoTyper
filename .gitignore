@@ -1,0 +1,24 @@
+# Python virtual environment
+venv/
+.venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Packaging build outputs
+build/
+dist/
+*.spec
+
+# Application runtime logs
+logs/
+autotyperpro.log
+
+# User session / config caches
+storage/session.json
+storage/stats.json
+storage/backups/
+storage/settings.json

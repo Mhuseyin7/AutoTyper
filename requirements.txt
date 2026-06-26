@@ -1,0 +1,7 @@
+customtkinter>=5.2.0
+CTkMessagebox>=2.5.0
+pynput>=1.7.6
+keyboard>=0.13.5
+pywin32>=306
+pillow>=10.0.0
+pyinstaller>=6.1.0
