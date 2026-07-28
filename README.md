@@ -1,4 +1,4 @@
-# Auto Typer Pro - Premium Edition
+# Auto Typer
 
 A modern, high-performance, and feature-rich desktop automation suite for Windows built in Python 3.13 and CustomTkinter. Designed with premium visual styling, advanced keyboard/mouse emulation, thread supervision, and crash recovery mechanics.
 
